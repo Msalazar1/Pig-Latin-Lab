@@ -1,0 +1,13 @@
+C:\Users\msalazar\source\repos\igPay atinLay\bin\Debug\netcoreapp3.1\igPay atinLay.exe
+C:\Users\msalazar\source\repos\igPay atinLay\bin\Debug\netcoreapp3.1\igPay atinLay.deps.json
+C:\Users\msalazar\source\repos\igPay atinLay\bin\Debug\netcoreapp3.1\igPay atinLay.runtimeconfig.json
+C:\Users\msalazar\source\repos\igPay atinLay\bin\Debug\netcoreapp3.1\igPay atinLay.runtimeconfig.dev.json
+C:\Users\msalazar\source\repos\igPay atinLay\bin\Debug\netcoreapp3.1\igPay atinLay.dll
+C:\Users\msalazar\source\repos\igPay atinLay\bin\Debug\netcoreapp3.1\igPay atinLay.pdb
+C:\Users\msalazar\source\repos\igPay atinLay\obj\Debug\netcoreapp3.1\igPay atinLay.csprojAssemblyReference.cache
+C:\Users\msalazar\source\repos\igPay atinLay\obj\Debug\netcoreapp3.1\igPay atinLay.AssemblyInfoInputs.cache
+C:\Users\msalazar\source\repos\igPay atinLay\obj\Debug\netcoreapp3.1\igPay atinLay.AssemblyInfo.cs
+C:\Users\msalazar\source\repos\igPay atinLay\obj\Debug\netcoreapp3.1\igPay atinLay.csproj.CoreCompileInputs.cache
+C:\Users\msalazar\source\repos\igPay atinLay\obj\Debug\netcoreapp3.1\igPay atinLay.dll
+C:\Users\msalazar\source\repos\igPay atinLay\obj\Debug\netcoreapp3.1\igPay atinLay.pdb
+C:\Users\msalazar\source\repos\igPay atinLay\obj\Debug\netcoreapp3.1\igPay atinLay.genruntimeconfig.cache
